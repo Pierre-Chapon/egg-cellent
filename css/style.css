@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Yrsa&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+  background-color: #000000;
+  font-family: 'yrsa', serif;
+  font-size: 18px;
+  color: white;
+}
+h1, h2, h3 {
+  font-family: 'yrsa', serif;
+  font-weight: bold;
+  color: white;
+}
+a {
+  text-decoration: none;
+}
+
